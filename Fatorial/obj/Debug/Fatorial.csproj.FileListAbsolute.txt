@@ -1,0 +1,10 @@
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\obj\Debug\Fatorial.csprojAssemblyReference.cache
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\obj\Debug\Fatorial.frmPrincipal.resources
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\obj\Debug\Fatorial.Properties.Resources.resources
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.GenerateResource.cache
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Wellington\Documents\GitHub\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
